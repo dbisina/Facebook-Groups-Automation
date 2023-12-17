@@ -38,7 +38,7 @@ sleep(2)
 
 
 groups_links_list = [
-    "https://www.facebook.com/groups/3698647250201218","https://www.facebook.com/groups/cryptoadvertisingonfacebook","https://www.facebook.com/groups/711727893611883","https://www.facebook.com/groups/makemoneyonline07","https://web.facebook.com/groups/558417114958911","https://web.facebook.com/groups/theworkfromhome","https://web.facebook.com/groups/3405854396179998","https://web.facebook.com/groups/forexbinaryoptionstrading","https://web.facebook.com/groups/bestforextradingsignals","https://web.facebook.com/groups/1330696460624402","https://web.facebook.com/groups/OnlineBusinessMentoringandtools","https://web.facebook.com/groups/iqoptionbd4","https://web.facebook.com/groups/878395403495245","https://web.facebook.com/groups/841527152564944","https://web.facebook.com/groups/778419636129897","https://web.facebook.com/groups/560110697725128","https://web.facebook.com/groups/507079372708836","https://web.facebook.com/groups/Investmentbitcoins","https://web.facebook.com/groups/273476911572378","https://web.facebook.com/groups/bitcoinuse","https://web.facebook.com/groups/220464723584265","https://web.facebook.com/groups/181001415920632","https://web.facebook.com/groups/makemoneyonlinefree4yu","https://web.facebook.com/groups/nicee12maan"
+ "x.com" , "y.com"
 ]
 
 for group in groups_links_list:
